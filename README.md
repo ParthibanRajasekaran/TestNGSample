@@ -1,1 +1,1 @@
-# TestNGSample
+# Appium template
